@@ -1,0 +1,36 @@
+body {
+	background-color: lightblue;
+}
+
+header {
+	height: 150px;
+	border: 1px solid black;
+	/*width: 300px;*/
+	text-align: center;
+}
+
+.underscore {
+	border: 1px solid black;
+	height: 150px;
+	font-size: 35px;
+	text-align: center;
+	margin-left: 0 auto;
+
+
+}
+
+.right-guess {
+	border: 1px solid black;
+	height: 150px;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.wrong-guess {
+	border: 1px solid black;
+	height: 150px;
+	text-align: center;
+	font-size: 30px;
+
+}
