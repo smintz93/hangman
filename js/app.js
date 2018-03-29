@@ -14,9 +14,11 @@ console.log("Linked")
 // if right push to right array 
 // if wrong push to wrong array
 
+// 
+
 const words = ["goal", "tackle", "score", "corner"]
 
-
+let lives = 10;
 
 let randNum = Math.floor(Math.random() * words.length);
 let randomWord = words[randNum];
